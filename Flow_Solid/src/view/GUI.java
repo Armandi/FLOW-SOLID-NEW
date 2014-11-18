@@ -6,7 +6,7 @@
 
 package view;
 
-import controller.Control;
+import controling.Control;
 import interfaces.WordPairControlInterface;
 
 /**
